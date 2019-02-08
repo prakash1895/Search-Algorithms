@@ -4,7 +4,7 @@
 1) Navigate to the Project Directory
 
 TO RUN THE CODE:
-  python search.py '<graph_file_txt>' '<search_method>'
+  python search.py 'graph_file_txt' 'search_method'
 
 There are nine search algorithms:
 * depth_first
@@ -19,7 +19,7 @@ There are nine search algorithms:
 	
 Example: python search.py graph.txt uniform_cost	
 
-NOTE: In order to run all searches enter ALL for <<search algorithm>> <br/>
+NOTE: In order to run all searches enter 'ALL' for 'search algorithm'
 
 run python search.py graph.txt ALL 
 
