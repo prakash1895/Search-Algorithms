@@ -19,7 +19,7 @@ There are nine search algorithms:
 	
 Example: python search.py graph.txt uniform_cost	
 
-NOTE: In order to run all searches enter 'ALL' for '<search algorithm>' <br/>
+NOTE: In order to run all searches enter ALL for <<search algorithm>> <br/>
 
 run python search.py graph.txt ALL 
 
